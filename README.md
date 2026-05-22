@@ -6,7 +6,7 @@
 
 ## 🖼️ Dashboard Preview
 
-![SuperStore Sales Dashboard](dashboard-preview.png)
+![SuperStore Sales Dashboard](Screenshot 2026-05-22 164043.png)
 
 > *Replace `dashboard-preview.png` with your actual screenshot after exporting from Power BI*
 
