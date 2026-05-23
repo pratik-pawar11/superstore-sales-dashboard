@@ -93,7 +93,7 @@ screenshots/
 
 ## 👤 Author
 
-**Pratik Pawar**
+**Pratik Tulshiram Pawar**
 
 [![GitHub](https://img.shields.io/badge/GitHub-pratikpawar-181717?style=flat&logo=github)](https://github.com/pratikpawar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratik%20Pawar-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/pratikpawar)
