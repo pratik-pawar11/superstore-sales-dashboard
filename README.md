@@ -69,7 +69,6 @@ An interactive **Power BI dashboard** built on the SuperStore retail dataset, co
 2. Clone or download this repository
 3. Open `project.pbix` in Power BI Desktop
 4. No credentials required — data is fully embedded
-
 ```bash
 git clone https://github.com/pratikpawar/superstore-sales-dashboard.git
 ```
